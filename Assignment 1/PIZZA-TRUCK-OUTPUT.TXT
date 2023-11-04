@@ -1,0 +1,24 @@
+
+
+  2022/09/16                       ROLLING PIZZA                   AHO          
+
+                                 INVENTORY REPORT                               
+
+
+     TRUCK     EMPLOYEE     ITEM     NUM IN     PURCHASE     SELLING            
+      ID          ID         ID      STOCK       PRICE        PRICE             
+     P100A       E001        CH       090         002          008              
+     P100A       E001        PP       110         005          009              
+     P100A       E001        PR       075         001          005              
+     P100A       E001        SA       062         004          010              
+     P100A       E001        SU       105         006          012              
+     P200G       E002        CH       055         002          008              
+     P200G       E002        PP       098         005          009              
+     P200G       E002        PR       115         001          005              
+     P200G       E002        SA       072         004          010              
+     P200G       E002        SU       101         006          012              
+     P300H       E003        CH       025         002          008              
+     P300H       E003        PP       035         005          009              
+     P300H       E003        PR       000         001          005              
+     P300H       E003        SA       090         004          010              
+     P300H       E003        SU       045         006          012              
